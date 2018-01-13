@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg4193"
+   viewBox="0 0 354.33072 354.3307"
+   height="100mm"
+   width="100mm">
+  <defs
+     id="defs4195" />
+  <metadata
+     id="metadata4198">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="opacity:0.98000004;fill:#551b8c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4260-5-7-2"
+     width="343.13724"
+     height="343.13724"
+     x="5.5967355"
+     y="5.5967202"
+     rx="25.735292"
+     ry="25.735292" />
+  <g
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:207.36090088px;line-height:125%;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="text4184"
+     transform="matrix(1.7339778,0,0,1.7339778,-291.09238,57.764133)" />
+  <g
+     transform="translate(778.98459,-60.784649)"
+     id="g4318">
+    <rect
+       style="fill:#c4b4cf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4143-8"
+       width="152.01642"
+       height="236.62869"
+       x="-595.86993"
+       y="140.63686"
+       rx="30"
+       ry="30"
+       transform="matrix(1,0,-0.27285772,0.9620544,0,0)" />
+    <rect
+       style="fill:#551b8c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4143-7-6"
+       width="152.01642"
+       height="236.62869"
+       x="-606.1748"
+       y="132.40533"
+       rx="30"
+       ry="26.528"
+       transform="matrix(1,0,-0.27285772,0.9620544,0,0)" />
+    <rect
+       style="fill:#c4b4cf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4143-3-7"
+       width="152.01642"
+       height="236.62869"
+       x="-624.10101"
+       y="117.405"
+       rx="30"
+       ry="26.528"
+       transform="matrix(1,0,-0.27285772,0.9620544,0,0)" />
+    <rect
+       style="fill:#551b8c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4143-3-0-1"
+       width="99.416191"
+       height="19.102491"
+       x="-593.70001"
+       y="155.40024"
+       rx="5"
+       ry="4.8959303"
+       transform="matrix(1,0,-0.29359186,0.95593087,0,0)" />
+    <rect
+       style="fill:#551b8c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4143-3-0-5-5"
+       width="99.416191"
+       height="19.102491"
+       x="-594.6239"
+       y="181.57899"
+       rx="5"
+       ry="4.8959303"
+       transform="matrix(1,0,-0.29359186,0.95593087,0,0)" />
+  </g>
+</svg>
